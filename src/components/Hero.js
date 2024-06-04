@@ -10,15 +10,15 @@ export default function Hero() {
           $UNO reverse the market, let the jeets be jeets and let the rich get richer.
           </p>
           <div className="flex gap-5 justify-center items-center">
-            <div>
+            <a href="https://t.me/unoreversesolana" target="_blank" rel="noreferrer">
               <img src="/telegram.png" alt="image" className="w-10 md:w-auto" />
-            </div>
-            <div>
+            </a>
+            <a href='https://x.com/unoreverse_sol' target='_blank' rel="noreferrer">
               <img src="/x.png" alt="image" className="w-10 md:w-auto" />
-            </div>
-            <div>
+            </a>
+            <a>
               <img src="/pill.png" alt="image" className="w-10 md:w-auto" />
-            </div>
+            </a>
           </div>
         </div>
         <div>
