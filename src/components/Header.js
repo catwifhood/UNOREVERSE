@@ -6,8 +6,8 @@ export default function Header() {
       <h1 className='text-2xl font-bold'>CA: COMING SOON</h1>
       <div className='flex-grow md:block hidden' />
       <h1 className='text-2xl font-bold underline'>PUMP.FUN</h1>
-      <h1 className='text-2xl font-bold underline'>TELEGRAM</h1>
-      <h1 className='text-2xl font-bold underline'>TWITTER</h1>
+      <a className='text-2xl font-bold underline cursor-pointer' href='https://t.me/unoreversesolana' target='_blank' rel="noreferrer">TELEGRAM</a>
+      <a className='text-2xl font-bold underline cursor-pointer' href='https://x.com/unoreverse_sol' target='_blank' rel="noreferrer">TWITTER</a>
     </div>
   )
 }
