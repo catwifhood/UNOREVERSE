@@ -16,7 +16,7 @@ export default function Hero() {
             <a href='https://x.com/unoreverse_sol' target='_blank' rel="noreferrer">
               <img src="/x.png" alt="image" className="w-10 md:w-auto" />
             </a>
-            <a>
+            <a href="https://pump.fun/board" target="_blank" rel="noreferrer">
               <img src="/pill.png" alt="image" className="w-10 md:w-auto" />
             </a>
           </div>
