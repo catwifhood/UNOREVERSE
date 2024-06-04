@@ -12,13 +12,13 @@ export default function Hero() {
           </p>
           <div className="flex gap-5 justify-center items-center">
             <div>
-              <img src="/telegram.png" alt="image" />
+              <img src="/telegram.png" alt="image" className="w-10 md:w-auto" />
             </div>
             <div>
-              <img src="/x.png" alt="image" />
+              <img src="/x.png" alt="image" className="w-10 md:w-auto" />
             </div>
             <div>
-              <img src="/pill.png" alt="image" />
+              <img src="/pill.png" alt="image" className="w-10 md:w-auto" />
             </div>
           </div>
         </div>
