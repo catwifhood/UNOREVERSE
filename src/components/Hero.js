@@ -23,7 +23,7 @@ export default function Hero() {
           </div>
         </div>
         <div>
-          <img src="/image1.png" alt="image" />
+          <img src="/landing.png" alt="image" />
         </div>
       </div>
     </div>
