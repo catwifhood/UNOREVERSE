@@ -7,8 +7,7 @@ export default function Hero() {
         <div className="flex flex-col gap-10 items-center justify-center">
           <h1 className="text-8xl font-black">$UNO</h1>
           <p className="text-2xl text-center max-w-[500px]">
-            $UNO REVERSE THE MARKET AND LET THE JEETS BE JEETS AND THE RICH GET
-            RICHER.
+          $UNO reverse the market, let the jeets be jeets and let the rich get richer.
           </p>
           <div className="flex gap-5 justify-center items-center">
             <div>
